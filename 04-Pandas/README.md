@@ -42,54 +42,54 @@ data/processed/
 ## Notebooks
 
 ### 1. Data Overview
-📓 `01_data_overview.ipynb`
+📓 [01_data_overview.ipynb](notebooks/01_data_overview.ipynb)
 - understand dataset structure
 - basic inspection
 
 ### 2. Series
-📓 `02_series.ipynb`
+📓 [02_series.ipynb](notebooks/02_series.ipynb)
 - single column operations
 
 ### 3. DataFrame
-📓 `03_dataframe.ipynb`
+📓 [03_dataframe.ipynb](notebooks/03_dataframe.ipynb)
 - table structure
 - column & row operations
 
 ### 4. Loading Data
-📓 `04_loading_data.ipynb`
+📓 [04_loading_data.ipynb](notebooks/04_loading_data.ipynb)
 - CSV & JSON loading
 
 ### 5. Inspection & Selection
-📓 `05_inspection_selection.ipynb`
+📓 [05_inspection_selection.ipynb](notebooks/05_inspection_selection.ipynb)
 - filtering
 - indexing
 - sorting
 
 ### 6. Cleaning
-📓 `06_cleaning.ipynb`
+📓 [06_cleaning.ipynb](notebooks/06_cleaning.ipynb)
 - missing values
 - duplicates
 - data types
 - string cleaning
 
 ### 7. Transformation
-📓 `07_transformation.ipynb`
+📓 [07_transformation.ipynb](notebooks/07_transformation.ipynb)
 - new columns
 - mapping
 - replacing
 
 ### 8. GroupBy & Aggregation
-📓 `08_groupby_aggregation.ipynb`
+📓 [08_groupby_aggregation.ipynb](notebooks/08_groupby_aggregation.ipynb)
 - summarizing data
 
 ### 9. Reshaping
-📓 `09_reshaping.ipynb`
+📓 [09_reshaping.ipynb](notebooks/09_reshaping.ipynb)
 - pivot
 - melt
 - stack
 
 ### 10. Merging & Joining
-📓 `10_merging_joining.ipynb`
+📓 [10_merging_joining.ipynb](notebooks/10_merging_joining.ipynb)
 - merge
 - join
 - concat
@@ -98,7 +98,7 @@ data/processed/
 
 ## Quick Revision
 
-📘 `cheatsheet/pandas_quick_reference.md`
+📘 [Pandas Quick Reference](cheatsheet/pandas_quick_reference.md)
 
 Contains commonly used syntax for fast recall.
 
