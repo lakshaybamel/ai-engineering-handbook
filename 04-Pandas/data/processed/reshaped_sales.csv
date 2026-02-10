@@ -1,0 +1,16 @@
+city,category,total_sales
+Bangalore,Accessories,
+Chennai,Accessories,2500.0
+Delhi,Accessories,3000.0
+Mumbai,Accessories,
+Pune,Accessories,
+Bangalore,Fashion,5100.0
+Chennai,Fashion,
+Delhi,Fashion,
+Mumbai,Fashion,
+Pune,Fashion,3000.0
+Bangalore,Tech,
+Chennai,Tech,
+Delhi,Tech,61000.0
+Mumbai,Tech,100000.0
+Pune,Tech,18000.0
