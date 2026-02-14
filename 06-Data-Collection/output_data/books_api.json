@@ -1,0 +1,380 @@
+[
+    {
+        "title": "Carrie",
+        "year": 1974,
+        "publisher": "Doubleday",
+        "pages": 199
+    },
+    {
+        "title": "Salem's Lot",
+        "year": 1975,
+        "publisher": "Doubleday",
+        "pages": 439
+    },
+    {
+        "title": "The Shining",
+        "year": 1977,
+        "publisher": "Doubleday",
+        "pages": 447
+    },
+    {
+        "title": "Rage",
+        "year": 1977,
+        "publisher": "Signet Books",
+        "pages": 211
+    },
+    {
+        "title": "The Stand",
+        "year": 1978,
+        "publisher": "Doubleday",
+        "pages": 823
+    },
+    {
+        "title": "The Long Walk",
+        "year": 1979,
+        "publisher": "Signet Books",
+        "pages": 384
+    },
+    {
+        "title": "The Dead Zone",
+        "year": 1979,
+        "publisher": "Viking Press",
+        "pages": 428
+    },
+    {
+        "title": "Firestarter",
+        "year": 1980,
+        "publisher": "Viking Press",
+        "pages": 426
+    },
+    {
+        "title": "Roadwork",
+        "year": 1981,
+        "publisher": "Signet Books",
+        "pages": 274
+    },
+    {
+        "title": "Cujo",
+        "year": 1981,
+        "publisher": "Viking Press",
+        "pages": 319
+    },
+    {
+        "title": "The Running Man",
+        "year": 1982,
+        "publisher": "Signet Books",
+        "pages": 219
+    },
+    {
+        "title": "The Dark Tower: The Gunslinger",
+        "year": 1982,
+        "publisher": "Grant",
+        "pages": 224
+    },
+    {
+        "title": "Christine",
+        "year": 1983,
+        "publisher": "Viking",
+        "pages": 526
+    },
+    {
+        "title": "Pet Sematary",
+        "year": 1983,
+        "publisher": "Doubleday",
+        "pages": 374
+    },
+    {
+        "title": "Cycle of the Werewolf",
+        "year": 1983,
+        "publisher": "Land of Enchantment",
+        "pages": 127
+    },
+    {
+        "title": "The Talisman",
+        "year": 1984,
+        "publisher": "Viking",
+        "pages": 646
+    },
+    {
+        "title": "The Eyes of the Dragon",
+        "year": 1984,
+        "publisher": "Philtrum Press (1984)Viking (1987)",
+        "pages": 326
+    },
+    {
+        "title": "Thinner",
+        "year": 1984,
+        "publisher": "NAL",
+        "pages": 309
+    },
+    {
+        "title": "It",
+        "year": 1986,
+        "publisher": "Viking",
+        "pages": 1138
+    },
+    {
+        "title": "The Dark Tower II: The Drawing of the Three",
+        "year": 1987,
+        "publisher": "Grant",
+        "pages": 400
+    },
+    {
+        "title": "Misery",
+        "year": 1987,
+        "publisher": "Viking",
+        "pages": 310
+    },
+    {
+        "title": "The Tommyknockers",
+        "year": 1987,
+        "publisher": "Putnam",
+        "pages": 558
+    },
+    {
+        "title": "The Dark Half",
+        "year": 1989,
+        "publisher": "Viking",
+        "pages": 431
+    },
+    {
+        "title": "The Stand Uncut",
+        "year": 1990,
+        "publisher": "Doubleday",
+        "pages": 1152
+    },
+    {
+        "title": "The Dark Tower III: The Waste Lands",
+        "year": 1991,
+        "publisher": "Grant",
+        "pages": 512
+    },
+    {
+        "title": "Needful Things",
+        "year": 1991,
+        "publisher": "Viking",
+        "pages": 690
+    },
+    {
+        "title": "Gerald's Game",
+        "year": 1992,
+        "publisher": "Viking",
+        "pages": 352
+    },
+    {
+        "title": "Dolores Claiborne",
+        "year": 1992,
+        "publisher": "Viking",
+        "pages": 305
+    },
+    {
+        "title": "Insomnia",
+        "year": 1994,
+        "publisher": "Viking",
+        "pages": 787
+    },
+    {
+        "title": "Rose Madder",
+        "year": 1995,
+        "publisher": "Viking",
+        "pages": 420
+    },
+    {
+        "title": "The Green Mile",
+        "year": 1996,
+        "publisher": "Signet Books",
+        "pages": 400
+    },
+    {
+        "title": "Desperation",
+        "year": 1996,
+        "publisher": "Viking",
+        "pages": 704
+    },
+    {
+        "title": "The Regulators",
+        "year": 1996,
+        "publisher": "Dutton",
+        "pages": 480
+    },
+    {
+        "title": "The Dark Tower IV: Wizard and Glass",
+        "year": 1997,
+        "publisher": "Grant",
+        "pages": 787
+    },
+    {
+        "title": "Bag of Bones",
+        "year": 1998,
+        "publisher": "Scribner",
+        "pages": 529
+    },
+    {
+        "title": "The Girl Who Loved Tom Gordon",
+        "year": 1999,
+        "publisher": "Scribner",
+        "pages": 224
+    },
+    {
+        "title": "Dreamcatcher",
+        "year": 2001,
+        "publisher": "Scribner",
+        "pages": 620
+    },
+    {
+        "title": "Black House",
+        "year": 2001,
+        "publisher": "Random House",
+        "pages": 625
+    },
+    {
+        "title": "From a Buick 8",
+        "year": 2002,
+        "publisher": "Scribner",
+        "pages": 368
+    },
+    {
+        "title": "The Dark Tower V: Wolves of the Calla",
+        "year": 2003,
+        "publisher": "Grant",
+        "pages": 714
+    },
+    {
+        "title": "The Dark Tower VI: Song of Susannah",
+        "year": 2004,
+        "publisher": "Grant",
+        "pages": 432
+    },
+    {
+        "title": "The Dark Tower VII: The Dark Tower",
+        "year": 2004,
+        "publisher": "978-1-880-41862-8",
+        "pages": 845
+    },
+    {
+        "title": "The Colorado Kid",
+        "year": 2005,
+        "publisher": "Hard Case Crime",
+        "pages": 184
+    },
+    {
+        "title": "Cell",
+        "year": 2006,
+        "publisher": "Scribner",
+        "pages": 351
+    },
+    {
+        "title": "Lisey's Story",
+        "year": 2006,
+        "publisher": "Scribner",
+        "pages": 528
+    },
+    {
+        "title": "Blaze",
+        "year": 2007,
+        "publisher": "Scribner",
+        "pages": 304
+    },
+    {
+        "title": "Duma Key",
+        "year": 2008,
+        "publisher": "Scribner",
+        "pages": 607
+    },
+    {
+        "title": "Under the Dome",
+        "year": 2009,
+        "publisher": "Scribner",
+        "pages": 1074
+    },
+    {
+        "title": "11/22/63",
+        "year": 2011,
+        "publisher": "Scribner",
+        "pages": 849
+    },
+    {
+        "title": "The Dark Tower: The Wind Through the Keyhole",
+        "year": 2012,
+        "publisher": "Grant",
+        "pages": 336
+    },
+    {
+        "title": "Joyland",
+        "year": 2013,
+        "publisher": "Hard Case Crime",
+        "pages": 288
+    },
+    {
+        "title": "Doctor Sleep",
+        "year": 2013,
+        "publisher": "Scribner",
+        "pages": 531
+    },
+    {
+        "title": "Mr. Mercedes",
+        "year": 2014,
+        "publisher": "Scribner",
+        "pages": 436
+    },
+    {
+        "title": "Revival",
+        "year": 2014,
+        "publisher": "Scribner",
+        "pages": 403
+    },
+    {
+        "title": "Finders Keepers",
+        "year": 2015,
+        "publisher": "Scribner",
+        "pages": 434
+    },
+    {
+        "title": "End of Watch",
+        "year": 2016,
+        "publisher": "Scribner",
+        "pages": 496
+    },
+    {
+        "title": "Gwendy's Button Box",
+        "year": 2017,
+        "publisher": "Cemetery Dance Publications",
+        "pages": 175
+    },
+    {
+        "title": "Sleeping Beauties",
+        "year": 2017,
+        "publisher": "Scribner",
+        "pages": 702
+    },
+    {
+        "title": "The Outsider",
+        "year": 2018,
+        "publisher": "Scribner",
+        "pages": 576
+    },
+    {
+        "title": "Elevation",
+        "year": 2018,
+        "publisher": "Scribner",
+        "pages": 144
+    },
+    {
+        "title": "The Institute",
+        "year": 2019,
+        "publisher": "Scribner",
+        "pages": 576
+    },
+    {
+        "title": "Later",
+        "year": 2021,
+        "publisher": "Hard Case Crime",
+        "pages": 256
+    },
+    {
+        "title": "Billy Summers",
+        "year": 2021,
+        "publisher": "Scribner",
+        "pages": 528
+    }
+]
