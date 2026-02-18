@@ -41,7 +41,7 @@ Good for quick analysis.
 
 ## 2️⃣ Object-Oriented Style (Modern Way)
 
-```
+```python
 fig, ax = plt.subplots()
 ax.plot(x, y)
 plt.show()
