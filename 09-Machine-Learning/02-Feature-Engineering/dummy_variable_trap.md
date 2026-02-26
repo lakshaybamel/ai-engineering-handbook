@@ -61,7 +61,6 @@ Because:
 ## 🔷 Using Pandas
 
 ```python
-id="dvt-code-1"
 df = pd.get_dummies(df, drop_first=True)
 ```
 

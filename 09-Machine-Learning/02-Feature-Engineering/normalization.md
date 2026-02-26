@@ -44,7 +44,6 @@ Where:
 ## 🔷 Implementation (sklearn)
 
 ```python 
-id="norm-code-1"
 from sklearn.preprocessing import MinMaxScaler
 
 scaler = MinMaxScaler()

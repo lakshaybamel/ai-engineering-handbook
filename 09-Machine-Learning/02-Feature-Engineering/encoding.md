@@ -121,7 +121,6 @@ Red Blue Green
 ### 📌 Implementation
 
 ```python 
-id="enc-code-1"
 df = pd.get_dummies(df, drop_first=True)
 ```
 

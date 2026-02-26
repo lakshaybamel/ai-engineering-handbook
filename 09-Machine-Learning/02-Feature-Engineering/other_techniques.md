@@ -44,7 +44,6 @@ NaN / null
 ## 🔷 Example
 
 ```python
-id="miss-code-1"
 df.fillna(df.mean(), inplace=True)
 ```
 
@@ -147,7 +146,6 @@ Age → Young / Adult / Old
 ## 🔷 Example
 
 ```python
-id="bin-code-1"
 df["age_group"] = pd.cut(df["age"], bins=3, labels=["Low", "Medium", "High"])
 ```
 

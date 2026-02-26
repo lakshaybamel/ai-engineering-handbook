@@ -74,7 +74,6 @@ z = (x - mean) / std
 ## 🔷 Implementation (sklearn)
 
 ```python
-id="std-code-1"
 from sklearn.preprocessing import StandardScaler
 
 scaler = StandardScaler()
