@@ -115,9 +115,7 @@ Create new features from existing ones
 ```
 BMI = weight / height²
 ```
-```
-id="feat1"
-```
+
 ---
 
 ## 🔷 Why Important?
