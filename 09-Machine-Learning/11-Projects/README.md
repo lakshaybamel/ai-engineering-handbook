@@ -4,106 +4,147 @@
 
 This section contains **end-to-end Machine Learning projects** built using concepts covered throughout this repository.
 
-👉 Each project is implemented in a **separate GitHub repository**
-👉 This file serves as a **central hub to access all projects**
+Each project is implemented in a **separate GitHub repository** and linked here as a **central hub for quick access**.
+
+These projects demonstrate practical applications of machine learning concepts including **classification, regression, clustering, and imbalanced learning**.
 
 ---
 
-## 🧠 Purpose
+# 🧠 Purpose
 
-* Apply theoretical concepts to real-world problems
-* Build strong portfolio projects
-* Prepare for internships and placements
+The goal of these projects is to:
 
----
-
-## 📂 Project List
-
-> 🔗 Click on any project to view full implementation
-
-### 🟢 Beginner Projects
-
-* 🔗 *Coming Soon*
+* Apply theoretical ML concepts to **real-world datasets**
+* Build **portfolio-ready machine learning systems**
+* Practice **end-to-end ML workflows**
+* Prepare for **ML interviews, internships, and placements**
 
 ---
 
-### 🟡 Intermediate Projects
+# 📂 Project List
 
-* 🔗 *Coming Soon*
-
----
-
-### 🔴 Advanced Projects
-
-* 🔗 *Coming Soon*
+> 🔗 Click on any project to view the full implementation.
 
 ---
 
-## 🛠️ Tech Stack Used
+## 🟢 Beginner Projects
 
-Across projects, you will find usage of:
+### 🛍️ Shop Smart — E-commerce Purchase Prediction
+
+Predict whether a user will purchase a product based on browsing behavior using **Decision Tree with pruning techniques**.
+
+🔗 https://github.com/lakshaybamel/shop-smart-decision-tree
+
+---
+
+## 🟡 Intermediate Projects
+
+### 🏦 CreditWise — Loan Default Prediction
+
+Predict whether a loan applicant will default using **Logistic Regression, KNN, and Naive Bayes**.
+
+🔗 https://github.com/lakshaybamel/CreditWise-Loan-System
+
+---
+
+### 🏠 HousePricePro — House Price Prediction
+
+Predict house prices using **Linear Regression, Ridge, and Lasso Regression**.
+
+🔗 https://github.com/lakshaybamel/housepricepro-house-price-prediction
+
+---
+
+### 🛒 SmartCart — Customer Segmentation System
+
+Segment customers using **K-Means Clustering and PCA** to identify purchasing patterns.
+
+🔗 https://github.com/lakshaybamel/smartcart-customer-segmentation
+
+---
+
+## 🔴 Advanced Projects
+
+### 🚨 FraudGuard — Credit Card Fraud Detection
+
+Detect fraudulent transactions using **SMOTE, Random Forest, and XGBoost** with a complete ML pipeline.
+
+🔗 https://github.com/lakshaybamel/fraudguard-credit-card-fraud-detection
+
+---
+
+# 🛠️ Tech Stack Used
+
+Across these projects, the following technologies are used:
 
 * Python
-* NumPy, Pandas
-* Matplotlib, Seaborn
+* NumPy
+* Pandas
+* Matplotlib
+* Seaborn
 * Scikit-learn
 * XGBoost
 * Feature Engineering
-* Pipelines
+* SMOTE for Imbalanced Data
+* Machine Learning Pipelines
 
 ---
 
-## ⚙️ What Each Project Includes
+# ⚙️ What Each Project Includes
 
-Every project repository typically contains:
+Each project repository typically contains:
 
 * 📊 Problem Statement
-* 🧹 Data Preprocessing
-* 📈 EDA (Exploratory Data Analysis)
+* 🧹 Data Cleaning & Preprocessing
+* 📈 Exploratory Data Analysis (EDA)
 * 🤖 Model Building
-* 🔧 Hyperparameter Tuning
+* 🔧 Model Comparison
 * 📉 Evaluation Metrics
-* 📦 Deployment-ready structure (in some projects)
+* 📦 Production-style project structure
 
 ---
 
-## 🎯 Learning Outcome
+# 🎯 Learning Outcome
 
-After completing these projects:
+After completing these projects, you will be able to:
 
-* You can build end-to-end ML pipelines
-* You understand real-world data challenges
-* You are ready for ML interviews and internships
-
----
-
-## ⚠️ Important Note
-
-* Projects will be added gradually
-* Focus is on **quality over quantity**
-* Each project is designed to be **portfolio-ready**
+* Build **end-to-end machine learning pipelines**
+* Handle **real-world datasets**
+* Apply **multiple ML algorithms**
+* Perform **model evaluation and comparison**
+* Understand **practical ML system design**
 
 ---
 
-## 🧠 Interview Tip
+# ⚠️ Important Note
 
-👉 Always be ready to explain:
-
-* Problem statement
-* Approach taken
-* Why a model was chosen
-* Improvements possible
+These projects focus on **practical implementation rather than theory**, and each one is designed to be **portfolio-ready**.
 
 ---
 
-## 🚀 Future Plan
+# 🧠 Interview Tip
 
-* Add real-world datasets
-* Include deployment (Streamlit / Flask)
-* Add advanced ML & DL projects
+When discussing these projects in interviews, be ready to explain:
+
+* The **problem statement**
+* The **approach used**
+* Why a **specific model was chosen**
+* How the model was **evaluated**
+* Possible **improvements**
 
 ---
 
-## 🧠 One-Line Summary
+# 🚀 Future Plans
 
-> This section showcases real-world ML projects, each hosted separately and linked here for easy access.
+Planned improvements include:
+
+* Deployment using **Streamlit / FastAPI**
+* Adding **deep learning projects**
+* Building **production-ready ML systems**
+* Integrating **real-time ML pipelines**
+
+---
+
+# 🧠 One-Line Summary
+
+> A curated collection of practical machine learning projects demonstrating real-world ML workflows and portfolio-ready implementations.
