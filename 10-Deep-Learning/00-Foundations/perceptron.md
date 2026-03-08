@@ -22,12 +22,14 @@ It is essentially a **linear classifier**.
 
 Think of a perceptron like a **decision boundary** that separates data into two classes.
 
-Example:
+**Example:**
 
-Classifying emails:
+- Classifying emails:
 
+```
 If spam_score > threshold → Spam
 Otherwise → Not Spam
+```
 
 The perceptron learns **how to draw a line (or hyperplane)** that separates the classes.
 
@@ -129,9 +131,9 @@ During training, the perceptron adjusts its weights when it makes a mistake.
 
 ### Basic idea:
 
-1️⃣ Predict output
-2️⃣ Compare with actual label
-3️⃣ Update weights if prediction is wrong
+1️⃣ Predict output  
+2️⃣ Compare with actual label  
+3️⃣ Update weights if prediction is wrong  
 
 Weight update rule:
 
@@ -171,19 +173,21 @@ Points on one side belong to **class 0**, and points on the other side belong to
 
 Although perceptrons are important historically, they have some limitations.
 
-### Only Works for Linearly Separable Data
+---
+
+### 1. Only Works for Linearly Separable Data
 
 Perceptrons can only solve problems where data can be separated using a **straight line**.
 
 Example of failure:
 
-The **XOR problem**.
+- The **XOR problem**.
 
 XOR cannot be solved by a single perceptron because the data is **not linearly separable**.
 
 ---
 
-### Cannot Learn Complex Patterns
+### 2. Cannot Learn Complex Patterns
 
 Real-world problems usually require **multiple layers of neurons**.
 
