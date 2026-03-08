@@ -6,9 +6,11 @@
 
 Deep Learning is actually a **subset of Machine Learning**.
 
+```
 AI  
 └── Machine Learning  
-  └── Deep Learning
+    └── Deep Learning
+```
 
 Both aim to **learn patterns from data**, but they differ in how they learn and how complex the models are.
 
@@ -22,7 +24,7 @@ Think of the difference like this:
 
 Humans help the model by **manually selecting useful features**.
 
-Example:
+**Example:**
 
 For house price prediction we might manually choose:
 
@@ -38,7 +40,7 @@ The model then learns patterns from these features.
 
 Deep Learning models **automatically learn the features** from raw data.
 
-Example:
+**Example:**
 
 In image recognition:
 
@@ -57,7 +59,9 @@ This ability is called **automatic feature learning**.
 
 ### Machine Learning Workflow
 
+```
 Data → Feature Engineering → Model → Prediction
+```
 
 Steps:
 
@@ -73,7 +77,9 @@ Feature engineering is usually done **manually by humans**.
 
 ### Deep Learning Workflow
 
+```
 Raw Data → Neural Network → Prediction
+```
 
 Steps:
 
