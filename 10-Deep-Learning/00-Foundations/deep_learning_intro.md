@@ -46,7 +46,9 @@ Deep learning models are built using **Artificial Neural Networks (ANNs)**.
 
 ### Basic Flow
 
+```
 Input Data → Neural Network → Learning → Prediction
+```
 
 ### Step-by-step Process
 
