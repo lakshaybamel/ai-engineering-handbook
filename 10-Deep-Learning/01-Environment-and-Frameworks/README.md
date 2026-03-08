@@ -72,9 +72,9 @@ This notebook connects the **theoretical concepts of neurons** to their **actual
 
 After completing this section you will:
 
-✔ Understand the major **deep learning frameworks**
-✔ Know how to use **Google Colab for experiments**
-✔ Implement a **basic neuron using PyTorch**
+✔ Understand the major **deep learning frameworks**  
+✔ Know how to use **Google Colab for experiments**  
+✔ Implement a **basic neuron using PyTorch**  
 
 This prepares you for the next section where we explore **how neural networks actually learn**.
 
