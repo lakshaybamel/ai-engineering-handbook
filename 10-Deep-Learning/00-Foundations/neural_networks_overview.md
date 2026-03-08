@@ -22,9 +22,13 @@ Think of a neural network like a **series of decision layers**.
 
 Each layer receives information, processes it, and passes it to the next layer.
 
-Example: **Image Classification**
+**Example:**
 
+- **Image Classification**
+
+```
 Input Image → Edge Detection → Shape Detection → Object Detection → Final Prediction
+```
 
 So the network gradually learns **more complex patterns** at deeper layers.
 
@@ -40,7 +44,7 @@ A neural network is made of **three main types of layers**.
 
 The **input layer** receives the raw data.
 
-Examples:
+**Examples:**
 
 * Pixel values of an image
 * Numerical features of a dataset
@@ -71,7 +75,7 @@ Deep learning networks may contain **many hidden layers**.
 
 The **output layer** produces the final prediction.
 
-Examples:
+**Examples:**
 
 Regression:
 ```
