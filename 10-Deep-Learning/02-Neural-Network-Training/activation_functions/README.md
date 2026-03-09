@@ -68,10 +68,10 @@ These variants help improve training stability in deep neural networks.
 
 After completing this section you will understand:
 
-✔ Why activation functions are necessary
-✔ How activation functions introduce **non-linearity**
-✔ Why **ReLU is widely used in deep learning**
-✔ How different activation functions affect neural network training
+✔ Why activation functions are necessary  
+✔ How activation functions introduce **non-linearity**  
+✔ Why **ReLU is widely used in deep learning**  
+✔ How different activation functions affect neural network training  
 
 This knowledge is essential for designing and training **deep neural network models**.
 
