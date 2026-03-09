@@ -145,10 +145,10 @@ Topics include:
 
 After completing this section you will understand:
 
-✔ how neural networks **make predictions**
-✔ how models **calculate and propagate errors**
-✔ how parameters are **updated during training**
-✔ how activation functions, loss functions, and optimizers work together
+✔ how neural networks **make predictions**  
+✔ how models **calculate and propagate errors**  
+✔ how parameters are **updated during training**  
+✔ how activation functions, loss functions, and optimizers work together  
 
 These concepts form the **core mechanics of deep learning training**.
 
@@ -160,8 +160,7 @@ After understanding neural network training, we move to implementing actual neur
 
 Next module:
 
-📁 **Artificial Neural Networks (ANN)**
-→ `../03-Artificial-Neural-Networks/README.md`
+📁 [**Artificial Neural Networks (ANN)**](../03-Artificial-Neural-Networks/README.md)
 
 In that section we will build neural networks for:
 
