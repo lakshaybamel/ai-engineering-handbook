@@ -77,10 +77,10 @@ These techniques make it possible to train **large deep learning models efficien
 
 After completing this section you will understand:
 
-✔ How neural networks **minimize loss functions**
-✔ How gradients guide parameter updates
-✔ Why optimizers are required for training
-✔ Why modern optimization techniques improve deep learning performance
+✔ How neural networks **minimize loss functions**  
+✔ How gradients guide parameter updates  
+✔ Why optimizers are required for training  
+✔ Why modern optimization techniques improve deep learning performance  
 
 These concepts are essential for understanding **how neural networks learn during training**.
 
