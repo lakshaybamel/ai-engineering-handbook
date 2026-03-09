@@ -74,10 +74,10 @@ These loss functions measure how well the model predicts **class probabilities**
 
 After completing this section you will understand:
 
-✔ What loss functions are
-✔ Why neural networks need loss functions
-✔ The difference between **regression and classification losses**
-✔ When to use different loss functions
+✔ What loss functions are  
+✔ Why neural networks need loss functions  
+✔ The difference between **regression and classification losses**  
+✔ When to use different loss functions  
 
 Loss functions are a critical component of neural network training because they guide the model toward **better predictions**.
 
