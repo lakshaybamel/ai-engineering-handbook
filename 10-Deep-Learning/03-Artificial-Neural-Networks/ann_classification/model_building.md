@@ -24,8 +24,6 @@ Architecture used:
 ```text
 Input Layer (number of features)
         ↓
-Hidden Layer (64 neurons)
-        ↓
 Hidden Layer (32 neurons)
         ↓
 Hidden Layer (16 neurons)
@@ -91,9 +89,8 @@ class ANNClassifier(nn.Module):
     def __init__(self, input_size, num_classes):
         super(ANNClassifier, self).__init__()
 
-        self.layer1 = nn.Linear(input_size, 64)
-        self.layer2 = nn.Linear(64, 32)
-        self.layer3 = nn.Linear(32, 16)
+        self.layer1 = nn.Linear(input_size, 32)
+        self.layer2 = nn.Linear(32, 16)
         self.output = nn.Linear(16, num_classes)
 
         self.relu = nn.ReLU()
@@ -102,7 +99,6 @@ class ANNClassifier(nn.Module):
 
         x = self.relu(self.layer1(x))
         x = self.relu(self.layer2(x))
-        x = self.relu(self.layer3(x))
         x = self.output(x)
 
         return x
