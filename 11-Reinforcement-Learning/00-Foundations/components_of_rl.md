@@ -158,11 +158,11 @@ All components work together in a loop:
 
 ### Grid World Example
 
-Agent: Robot
-Environment: Grid
-State: Current cell
-Action: Move directions
-Reward:
+Agent: Robot  
+Environment: Grid  
+State: Current cell  
+Action: Move directions  
+Reward:  
 
 * +10 → goal reached
 * -1 → each step

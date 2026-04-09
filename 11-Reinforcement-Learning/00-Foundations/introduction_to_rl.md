@@ -121,11 +121,11 @@ State → Action mapping
 
 ### Problem: Maze Solving 🧩
 
-Agent: Robot
-Environment: Maze
-State: Current position
-Action: Move directions
-Reward:
+Agent: Robot  
+Environment: Maze  
+State: Current position  
+Action: Move directions  
+Reward:  
 
 * +100 → exit reached
 * -1 → each step
@@ -174,8 +174,8 @@ Customer segmentation
 State → Action → Reward → Learning
 ```
 
-👉 No correct labels are provided
-👉 Learning happens through **experience**
+👉 No correct labels are provided  
+👉 Learning happens through **experience**  
 
 ---
 
@@ -187,8 +187,8 @@ The main goal is:
 Maximize cumulative reward
 ```
 
-👉 Not just immediate reward
-👉 Focus is on **long-term reward**
+👉 Not just immediate reward  
+👉 Focus is on **long-term reward**  
 
 ---
 
